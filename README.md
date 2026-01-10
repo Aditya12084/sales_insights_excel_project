@@ -7,13 +7,13 @@ and executive-level target achievement.
 
 ## Dashboard Preview
 
-![Sales Insights Dashboard](images/img1.png)
+![Sales Insights Dashboard](images/img.png)
 
 ## Key Features
 - KPI cards for Total Sales and Sales Executives
 - Region-wise sales analysis 
-- Daily sales trend visualization
-- Top 5 executives by sales
+- Daily sales trend visualization (₹)
+- Top 5 executives by sales (₹)
 - Top 5 executives by target achieved (%)
 - Top 5 executives below target (%)
 
